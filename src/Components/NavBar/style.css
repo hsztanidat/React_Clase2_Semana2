@@ -1,0 +1,40 @@
+.NavContainer {
+    width: 10vw;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: white;
+    font-weight: 600;
+}
+
+#NavTitle {
+    font-size: 20px;
+}
+
+.LinkContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.Link {
+    
+    margin-bottom: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+.FreeDelivery {
+    margin-top: 20px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    padding: 8px;
+    border: solid white 1px
+}
+
+.BoxTitle {
+    margin: 0;
+    font-size: 20px;
+}
+
+.TextFreeDelivery  {
+    margin: 0;
+}

@@ -1,0 +1,17 @@
+.HeaderContainer {
+    display: flex;
+    color:white;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.HeaderTitle {
+    
+}
+
+.Container {
+    width: 200px;
+    display: flex;
+    justify-content: space-around;
+}
